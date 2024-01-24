@@ -1,4 +1,4 @@
-# CS 355 Implementation Project
+# Cryptographic Zero Knowledge File Checking
 Version 1.0
 
 ### Introduction
